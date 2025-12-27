@@ -1,0 +1,15 @@
+{
+  "name": "MONEY",
+  "symbol": "MONEY",
+  "description": "Money coin",
+  "image": "icon.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "icon.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
